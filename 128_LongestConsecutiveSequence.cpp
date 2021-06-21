@@ -1,3 +1,5 @@
+//GFG - https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1#
+
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
