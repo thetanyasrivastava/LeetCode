@@ -34,6 +34,7 @@ class Solution
                 else
                     t[i][j]=t[i-1][j];
             }
+            
         }
         
         return t[n][W];
